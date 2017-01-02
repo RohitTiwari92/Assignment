@@ -1,0 +1,1 @@
+c:\users\rohit\documents\visual studio 2013\Projects\TracxnSlideGenerator\InvokerApplication\bin\Release\InvokerApplication.exe.config

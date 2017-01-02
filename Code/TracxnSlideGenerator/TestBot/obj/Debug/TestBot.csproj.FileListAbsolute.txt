@@ -1,0 +1,12 @@
+C:\Users\Rohit\Documents\Visual Studio 2013\Projects\TracxnSlideGenerator\TestBot\bin\Debug\TestBot.dll
+C:\Users\Rohit\Documents\Visual Studio 2013\Projects\TracxnSlideGenerator\TestBot\bin\Debug\TestBot.pdb
+C:\Users\Rohit\Documents\Visual Studio 2013\Projects\TracxnSlideGenerator\TestBot\bin\Debug\nunit.framework.dll
+C:\Users\Rohit\Documents\Visual Studio 2013\Projects\TracxnSlideGenerator\TestBot\bin\Debug\TracxnSlideGenerator.dll
+C:\Users\Rohit\Documents\Visual Studio 2013\Projects\TracxnSlideGenerator\TestBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rohit\Documents\Visual Studio 2013\Projects\TracxnSlideGenerator\TestBot\bin\Debug\TracxnSlideGenerator.pdb
+C:\Users\Rohit\Documents\Visual Studio 2013\Projects\TracxnSlideGenerator\TestBot\bin\Debug\nunit.framework.xml
+C:\Users\Rohit\Documents\Visual Studio 2013\Projects\TracxnSlideGenerator\TestBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Rohit\Documents\Visual Studio 2013\Projects\TracxnSlideGenerator\TestBot\obj\Debug\TestBot.csprojResolveAssemblyReference.cache
+C:\Users\Rohit\Documents\Visual Studio 2013\Projects\TracxnSlideGenerator\TestBot\obj\Debug\TestBot.csproj.ResolveComReference.cache
+C:\Users\Rohit\Documents\Visual Studio 2013\Projects\TracxnSlideGenerator\TestBot\obj\Debug\TestBot.dll
+C:\Users\Rohit\Documents\Visual Studio 2013\Projects\TracxnSlideGenerator\TestBot\obj\Debug\TestBot.pdb

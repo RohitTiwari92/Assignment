@@ -1,0 +1,5 @@
+c:\users\rohit\documents\visual studio 2013\Projects\TracxnSlideGenerator\TracxnSlideGenerator\bin\Release\TracxnSlideGenerator.dll
+c:\users\rohit\documents\visual studio 2013\Projects\TracxnSlideGenerator\TracxnSlideGenerator\bin\Release\TracxnSlideGenerator.pdb
+c:\users\rohit\documents\visual studio 2013\Projects\TracxnSlideGenerator\TracxnSlideGenerator\obj\Release\TracxnSlideGenerator.csprojResolveAssemblyReference.cache
+c:\users\rohit\documents\visual studio 2013\Projects\TracxnSlideGenerator\TracxnSlideGenerator\obj\Release\TracxnSlideGenerator.dll
+c:\users\rohit\documents\visual studio 2013\Projects\TracxnSlideGenerator\TracxnSlideGenerator\obj\Release\TracxnSlideGenerator.pdb

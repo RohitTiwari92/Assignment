@@ -1,0 +1,10 @@
+C:\Users\Rohit\Documents\Visual Studio 2013\Projects\TracxnSlideGenerator\TracxnSlideGenerator\bin\Debug\TracxnSlideGenerator.dll
+C:\Users\Rohit\Documents\Visual Studio 2013\Projects\TracxnSlideGenerator\TracxnSlideGenerator\bin\Debug\TracxnSlideGenerator.pdb
+C:\Users\Rohit\Documents\Visual Studio 2013\Projects\TracxnSlideGenerator\TracxnSlideGenerator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rohit\Documents\Visual Studio 2013\Projects\TracxnSlideGenerator\TracxnSlideGenerator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Rohit\Documents\Visual Studio 2013\Projects\TracxnSlideGenerator\TracxnSlideGenerator\obj\Debug\TracxnSlideGenerator.csproj.ResolveComReference.cache
+C:\Users\Rohit\Documents\Visual Studio 2013\Projects\TracxnSlideGenerator\TracxnSlideGenerator\obj\Debug\TracxnSlideGenerator.Properties.Resources.resources
+C:\Users\Rohit\Documents\Visual Studio 2013\Projects\TracxnSlideGenerator\TracxnSlideGenerator\obj\Debug\TracxnSlideGenerator.csproj.GenerateResource.Cache
+C:\Users\Rohit\Documents\Visual Studio 2013\Projects\TracxnSlideGenerator\TracxnSlideGenerator\obj\Debug\TracxnSlideGenerator.dll
+C:\Users\Rohit\Documents\Visual Studio 2013\Projects\TracxnSlideGenerator\TracxnSlideGenerator\obj\Debug\TracxnSlideGenerator.pdb
+C:\Users\Rohit\Documents\Visual Studio 2013\Projects\TracxnSlideGenerator\TracxnSlideGenerator\obj\Debug\TracxnSlideGenerator.csprojResolveAssemblyReference.cache

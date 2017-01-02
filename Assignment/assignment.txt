@@ -1,0 +1,42 @@
+This assignment will enable you to automatically generate different types of slides. 
+This folder contains 2 types of slides which need to be generated.
+
+
+
+
+1) Players selected for team - state wise.
+ 
+	This slide contains a fixed title, the states and players in each state. Both states and the players in each state are variable.
+ The actual data for states and players should be read from a JSON configuration the structure for which needs to be decided.
+ On changing this config, the slide data should change.
+
+Things to take care of:
+		
+i) If the data is insufficient for 1 slide, new slides should automatically be created.
+		done
+ii) The font, coloring scheme for states should be read from the JSON and change accordingly.
+done 
+
+
+
+2) Companies crawler report by <Analyst Name>.
+	This slide contains some sample data about markets and companies. 
+The table headers are fixed, but the data can be variable. The data for all the fields should be fetched from a JSON configuration,
+the structure for which needs to be decided. On changing this config, the slide data should change.
+Also, the table formatting/color scheme should be configurable to allow similar tables to be easily created.
+	
+Things to take care of:
+		
+i) The analyst name in title is dynamic.
+	done	
+ii) If the data is insufficient for 1 slide, new slides should automatically be created.
+	done	
+iii) The font, coloring scheme for states should be read from the JSON and change accordingly.		done
+
+
+
+Please state any other assumptions you are making.
+
+
+
+

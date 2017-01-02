@@ -1,0 +1,10 @@
+c:\users\rohit\documents\visual studio 2013\Projects\TracxnSlideGenerator\InvokerApplication\bin\Debug\InvokerApplication.exe
+c:\users\rohit\documents\visual studio 2013\Projects\TracxnSlideGenerator\InvokerApplication\bin\Debug\TracxnSlideGenerator.dll
+C:\Users\Rohit\Documents\Visual Studio 2013\Projects\TracxnSlideGenerator\InvokerApplication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rohit\Documents\Visual Studio 2013\Projects\TracxnSlideGenerator\InvokerApplication\bin\Debug\TracxnSlideGenerator.pdb
+C:\Users\Rohit\Documents\Visual Studio 2013\Projects\TracxnSlideGenerator\InvokerApplication\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Rohit\Documents\Visual Studio 2013\Projects\TracxnSlideGenerator\InvokerApplication\obj\Debug\InvokerApplication.csprojResolveAssemblyReference.cache
+C:\Users\Rohit\Documents\Visual Studio 2013\Projects\TracxnSlideGenerator\InvokerApplication\obj\Debug\InvokerApplication.exe
+C:\Users\Rohit\Documents\Visual Studio 2013\Projects\TracxnSlideGenerator\InvokerApplication\obj\Debug\InvokerApplication.pdb
+C:\Users\Rohit\documents\visual studio 2013\Projects\TracxnSlideGenerator\InvokerApplication\bin\Debug\InvokerApplication.exe.config
+C:\Users\Rohit\documents\visual studio 2013\Projects\TracxnSlideGenerator\InvokerApplication\bin\Debug\InvokerApplication.pdb

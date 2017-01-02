@@ -1,0 +1,44 @@
+Declaration 
+Companies crawler Report  =>  I declare as => Type1 Report 
+Players Selected for Team  => I declare as => Type2 Report 
+
+
+Assumptions
+I assume that in Type2 Report every state would not have more than 12 players.
+I assume that font size of tables in both reports would not be more than 20. 
+Microsoft office is already installed.
+
+Input 
+arg[0] = powerpoint file path 
+arg[1] = json file path
+arg[2] = type of report (Type1/Type2)
+
+	example :
+	for Type1 Report 
+	C:\bin\Debug>InvokerApplication "E:\Tracxn\Type_1.pptx" "E:\Tracxn\Type1.json" Type1
+
+	for Type2 Report 
+	C:\bin\Debug>InvokerApplication "E:\Tracxn\Type_2.pptx" "E:\Tracxn\Type2.json" Type2
+	
+for exit press 'q' and enter 
+
+
+Exceptions :
+1. If sync not created properly and you are getting blank slide then, restart the application.
+2. In type 1 report if you are not getting all the bars in the chart then,  right click on the chart and click on edit data and close the open data sheet it will solve the problem.
+
+Some Points :
+
+1. I am handling powerpoint from outside so if want to see any change my application should be in running state. 
+2. I am creating the file. I am not appending any file so whenever you give powerpoint file path make sure that file should not exist at the same place.
+3. Do not open powerpoint file when the file is updating and close the powerpoint file when you update the JSON file (All the lock condition applied here of file system because I am handling powerpoint from outside.).
+4. After saving the JSON in sync state you can see the changes in the powerpoint file.
+5. I tested this program only on office 2013. 
+
+
+Used Nuget
+1. JSON .NET (all projects)
+2. Nunit
+
+For color change use 
+https://www.shodor.org/stella2java/rgbint.html and put "rgb int" value in json.
